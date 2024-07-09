@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"story book",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?t=st=1719847004~exp=1719850604~hmac=46a229c7c332d99c144aa6438251bd17978f73add8a3b0b9b51a0592604a1cc5&w=360"
+    },
+    {
+        "id":1,
+        "name":"Entertainment book",
+        "price":30,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?t=st=1719847004~exp=1719850604~hmac=46a229c7c332d99c144aa6438251bd17978f73add8a3b0b9b51a0592604a1cc5&w=360"
+    },
+    {
+        "id":3,
+        "name":"sports book",
+        "price":50,
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?t=st=1719847004~exp=1719850604~hmac=46a229c7c332d99c144aa6438251bd17978f73add8a3b0b9b51a0592604a1cc5&w=360"
+    },
+    {
+        "id":4,
+        "name":"story book",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?t=st=1719847004~exp=1719850604~hmac=46a229c7c332d99c144aa6438251bd17978f73add8a3b0b9b51a0592604a1cc5&w=360"
+    },
+    {
+        "id":5,
+        "name":"Entertainment book",
+        "price":30,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?t=st=1719847004~exp=1719850604~hmac=46a229c7c332d99c144aa6438251bd17978f73add8a3b0b9b51a0592604a1cc5&w=360"
+    },
+    {
+        "id":6,
+        "name":"sports book",
+        "price":50,
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?t=st=1719847004~exp=1719850604~hmac=46a229c7c332d99c144aa6438251bd17978f73add8a3b0b9b51a0592604a1cc5&w=360"
+    }
+]
